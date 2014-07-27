@@ -1,1 +1,1 @@
-<div>The Header</div>
+<div>The Footer</div>
